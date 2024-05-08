@@ -23,7 +23,7 @@ Froyo(卜凡) is the CZO of our company. They are always eager to learn new thin
 
 ## [Fiona](https://github.com/Fiona3390/JNRJ.git)
 
-Fiona(蔡熠飞) is a [team member 4 title] with a talent for [team member 4 skills]. They are a creative thinker and are always coming up with new ideas.
+Fiona(蔡熠飞) is the CNO of our company. They are a creative thinker and are always coming up with new ideas.
 
 ## [Lora](https://team-member-5-website.com)
 
@@ -31,7 +31,7 @@ Lora(罗拉) is the CHO of our company. They are always willing to help out and 
 
 ## [Daniel Chen](https://github.com/DanielChen321/ZWU-2024-Dc/blob/main/%E4%B8%AA%E4%BA%BA.md)
 
-Daniel Chen(陈泽锋) is a [team member 6 title] with a passion for [team member 6 interests]. They are always positive and have a great sense of humor.
+Daniel Chen(陈泽锋) is the CTO of our company. They are always positive and have a great sense of humor.
 
 ### OUR WORK  
 1  
