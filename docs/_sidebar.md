@@ -1,6 +1,10 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - [Team introduce](class/1pm/4AOL.md)
   - [Daniel Chen](class/1pm/个人.md)
+  - [Katrina]
+  - [Tomeya]
+  - [Froyo]
+  - [Lora]
 - Daily homework
   - [1. PM]()
     - [how to build web](class/1pm/4AOL.md)
