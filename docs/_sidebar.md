@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - [Team introduce](class/1pm/4AOL.md)
-  - [Daniel Chen](class/1pm/个人.md)
+  - [Daniel Chen](class/1pm/个DANIELC.md)
   - [Katrina]
   - [Tomeya]
   - [Froyo]
