@@ -25,12 +25,3 @@ Lora(罗拉) is the CHO of our company. They are always willing to help out and 
 ## [Daniel Chen](https://github.com/DanielChen321/ZWU-2024-Dc/blob/main/%E4%B8%AA%E4%BA%BA.md)
 
 Daniel Chen(陈泽锋) is the CTO of our company. They are always positive and have a great sense of humor.
-
-### OUR WORK  
-1  
-2  
-3
-4
-5
-
-
