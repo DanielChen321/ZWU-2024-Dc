@@ -17,7 +17,7 @@ Katrina(陈书彦) is the CAO of our company. They have [team member 1 experienc
 
 Tomeya(王爰又) is the CXO of our company. They have a proven track record of [team member 2 accomplishments] and are always willing to go the extra mile.
 
-## [Froyo](https://team-member-3-website.com)
+## [Froyo](https://github.com/PUbeef/BEEF.git)
 
 Froyo(卜凡) is the CZO of our company. They are always eager to learn new things and are always looking for ways to improve our team.
 
@@ -25,7 +25,7 @@ Froyo(卜凡) is the CZO of our company. They are always eager to learn new thin
 
 Fiona(蔡熠飞) is the CNO of our company. They are a creative thinker and are always coming up with new ideas.
 
-## [Lora](https://team-member-5-website.com)
+## [Lora](https://github.com/lora1239/loraa.git)
 
 Lora(罗拉) is the CHO of our company. They are always willing to help out and are a team player.
 
