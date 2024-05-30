@@ -1,234 +1,214 @@
-.about,
-.about * {
+.procressing,
+.procressing * {
   box-sizing: border-box;
 }
-.about {
+.procressing {
   background: #ffffff;
-  height: 957px;
+  height: 23445px;
   position: relative;
   overflow: hidden;
 }
-.hero-image {
-  background: #f7f7f7;
-  border-radius: 8px;
-  width: 338px;
-  height: 504px;
-  position: absolute;
-  right: 131px;
-  top: 181px;
-  overflow: hidden;
-}
-.navigation-footer {
-  background: #ffffff;
-  height: 264px;
-  position: absolute;
-  right: 0px;
-  left: 0px;
-  top: 1021px;
-  overflow: hidden;
-}
-.social-media {
+.arduino-input {
   color: #000000;
-  text-align: left;
-  font-family: var(--subheading-font-family, "Inter-Regular", sans-serif);
-  font-size: var(--subheading-font-size, 24px);
-  line-height: var(--subheading-line-height, 150%);
-  font-weight: var(--subheading-font-weight, 400);
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 80px;
+  line-height: 150%;
+  font-weight: 600;
   position: absolute;
-  left: 80px;
-  top: 52px;
+  left: 294px;
+  top: 158px;
+  width: 1153px;
+  height: 144px;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-}
-.social-icons {
-  display: flex;
-  flex-direction: row;
-  gap: var(--spacing-xs, 8px);
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  left: 80px;
-  top: 176px;
-}
-.buttons-icon {
-  border-radius: 4px;
-  padding: 8px;
-  flex-shrink: 0;
-  width: 40px;
-  height: 40px;
-  position: relative;
-}
-.icon {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
-}
-.icon2 {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
-}
-.icon3 {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
-}
-.icon4 {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
-}
-.divider {
-  border-style: solid;
-  border-color: #e6e6e6;
-  border-width: 1px 0 0 0;
-  width: 1280px;
-  height: 0px;
-  position: absolute;
-  left: 80px;
-  top: 1px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.items {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-end;
   justify-content: center;
-  width: 187px;
-  position: absolute;
-  right: 589px;
-  top: 61px;
 }
-.wechat {
+.basic-knowledge {
   color: #000000;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 24px;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
   line-height: 150%;
-  font-weight: 500;
-  position: relative;
-  align-self: stretch;
+  font-weight: 400;
+  position: absolute;
+  left: 60px;
+  top: 284px;
+  width: 1153px;
+  height: 144px;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-}
-.items2 {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-end;
   justify-content: center;
-  width: 187px;
-  position: absolute;
-  right: 898px;
-  top: 61px;
 }
-.e-mail {
+.ultrasonic-sensor {
   color: #000000;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 24px;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 80px;
   line-height: 150%;
-  font-weight: 500;
-  position: relative;
-  align-self: stretch;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.rjjn-7230121 {
-  color: #454545;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 150%;
-  font-weight: 500;
+  font-weight: 600;
   position: absolute;
-  left: 944px;
-  top: 127px;
-  width: 187px;
+  left: 208px;
+  top: 5581px;
+  width: 1262px;
+  height: 158px;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-}
-._2363151489-qq-com {
-  color: #454545;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 150%;
-  font-weight: 500;
-  position: absolute;
-  left: 635px;
-  top: 130px;
-  width: 294px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.items3 {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-end;
   justify-content: center;
-  width: 187px;
-  position: absolute;
-  right: 361px;
-  top: 52px;
 }
-.ins {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 500;
-  position: relative;
-  align-self: stretch;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.https-www-instagram-com-lefiy-ia-23-igsh-m-thq-o-wtw-y-3-pk-nw-zobw-3-d-3-d-utm-source-qr {
-  color: #454545;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 150%;
-  font-weight: 500;
+.input-3 {
+  width: 1236px;
+  height: 1661.04px;
   position: absolute;
-  left: 1172px;
-  top: 110px;
-  width: 451px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.img-3953-1 {
-  width: 373px;
-  height: 504px;
-  position: absolute;
-  left: 1224px;
-  top: 152px;
+  left: 236px;
+  top: 2194px;
   object-fit: cover;
 }
-.navigation {
+.input-4 {
+  width: 1236px;
+  height: 1649.44px;
+  position: absolute;
+  left: 236px;
+  top: 3855px;
+  object-fit: cover;
+}
+.the-circle-of-processing-is-controlled-according-to-the-size-of-the-arduino-motor {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 18830px;
+  width: 1172px;
+  height: 214px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.programming {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 19104px;
+  width: 455px;
+  height: 93px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.analog-circuit-connection {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 20754px;
+  width: 756px;
+  height: 93px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.processing-use-keyboard-to-interactive {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 80px;
+  line-height: 150%;
+  font-weight: 600;
+  position: absolute;
+  left: 278px;
+  top: 9158px;
+  width: 1122px;
+  height: 288px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.keyboard-functions-by-martin-gomez-click-on-the-window-to-give-it-focus-and-press-the-letter-keys-to-type-colors-the-keyboard-function-key-pressed-is-called-whenever-a-key-is-pressed-key-released-is-another-keyboard-function-that-is-called-when-a-key-is-released-original-color-typewriter-concept-by-john-maeda-int-max-height-40-int-min-height-20-int-letter-height-max-height-height-of-the-letters-int-letter-width-20-width-of-the-letter-int-x-letter-width-x-position-of-the-letters-int-y-0-y-position-of-the-letters-boolean-newletter-int-num-chars-26-there-are-26-characters-in-the-alphabet-color-colors-new-color-num-chars-void-setup-size-640-360-no-stroke-color-mode-hsb-num-chars-background-num-chars-2-set-a-hue-value-for-each-key-for-int-i-0-i-num-chars-i-colors-i-color-i-num-chars-num-chars-void-draw-if-newletter-true-draw-the-letter-int-y-pos-if-letter-height-max-height-y-pos-y-rect-x-y-pos-letter-width-letter-height-else-y-pos-y-min-height-rect-x-y-pos-letter-width-letter-height-fill-num-chars-2-rect-x-y-pos-min-height-letter-width-letter-height-newletter-false-void-key-pressed-if-the-key-is-between-a-65-to-z-and-a-to-z-122-if-key-a-key-z-key-a-key-z-int-key-index-if-key-z-key-index-key-a-letter-height-max-height-fill-colors-key-index-else-key-index-key-a-letter-height-min-height-fill-colors-key-index-else-fill-0-letter-height-10-newletter-true-update-the-letter-position-x-x-letter-width-wrap-horizontally-if-x-width-letter-width-x-0-y-max-height-wrap-vertically-if-y-height-letter-height-y-0-reset-y-to-0 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 228px;
+  top: 11023px;
+  width: 1236px;
+  height: 7424px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input-10 {
+  width: 1076px;
+  height: 696.58px;
+  position: absolute;
+  left: 301px;
+  top: 10248px;
+  object-fit: cover;
+}
+.reference-from-keyboard-functions-by-martin-gomez {
+  color: #78a2ee;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 18447px;
+  width: 1243px;
+  height: 229px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.reference-from-bilibili-10-arduino-processing-https-b-23-tv-6-s-2-sf-18 {
+  color: #78a2ee;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 169px;
+  top: 23087px;
+  width: 1373px;
+  height: 229px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.processing-with-arduino {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 80px;
+  line-height: 150%;
+  font-weight: 600;
+  position: absolute;
+  left: 159px;
+  top: 18629px;
+  width: 1359px;
+  height: 288px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._1 {
   background: #ffffff;
   height: 128px;
   position: absolute;
@@ -237,7 +217,7 @@
   top: 0px;
   overflow: hidden;
 }
-.items4 {
+.items {
   display: flex;
   flex-direction: row;
   gap: var(--spacing-m, 48px);
@@ -339,186 +319,99 @@
   align-items: center;
   justify-content: flex-start;
 }
-.headline {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-start;
-  justify-content: flex-start;
-  width: 1041px;
+._42 {
+  width: 1051px;
+  height: 729px;
   position: absolute;
-  left: 80px;
-  top: 115px;
+  left: 345px;
+  top: 428px;
+  object-fit: cover;
 }
-.headline2 {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  width: 1041px;
-  height: 657px;
-  position: relative;
-}
-.daniel {
-  color: #000000;
-  text-align: left;
-  font-family: var(--title-font-family, "Inter-Bold", sans-serif);
-  font-size: var(--title-font-size, 64px);
-  letter-spacing: var(--title-letter-spacing, -0.02em);
-  font-weight: var(--title-font-weight, 700);
-  position: relative;
-  align-self: stretch;
-}
-.cto-intj {
-  color: #828282;
-  text-align: left;
-  font-family: var(--subheading-font-family, "Inter-Regular", sans-serif);
-  font-size: var(--subheading-font-size, 24px);
-  line-height: var(--subheading-line-height, 150%);
-  font-weight: var(--subheading-font-weight, 400);
-  position: relative;
-  width: 350px;
-  height: 24px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.navigation-footer2 {
-  background: #ffffff;
-  height: 249px;
+._41 {
+  width: 955px;
+  height: 670px;
   position: absolute;
-  right: -2px;
-  left: 0px;
-  top: 693px;
-  overflow: hidden;
+  left: 393px;
+  top: 1283px;
+  object-fit: cover;
 }
-.items5 {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-end;
-  justify-content: center;
+._40 {
+  width: 1076px;
+  height: 812.95px;
   position: absolute;
-  right: 597px;
-  top: 48px;
+  left: 301px;
+  top: 5841px;
+  object-fit: cover;
 }
-._1700197359-qq-com {
-  color: #454545;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 150%;
-  font-weight: 500;
-  position: relative;
-  width: 215px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.items6 {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-end;
-  justify-content: center;
-  width: 216px;
+._39 {
+  width: 1076px;
+  height: 628.36px;
   position: absolute;
-  right: 338px;
-  top: 48px;
+  left: 301px;
+  top: 6676px;
+  object-fit: cover;
 }
-.daniel-1700197359 {
-  color: #454545;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 500;
-  position: relative;
-  width: 216px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.items7 {
-  display: flex;
-  flex-direction: column;
-  gap: var(--spacing-s, 24px);
-  align-items: flex-end;
-  justify-content: center;
-  width: 187px;
+._38 {
+  width: 1076px;
+  height: 1041.11px;
   position: absolute;
-  right: 80px;
-  top: 48px;
+  left: 301px;
+  top: 7407px;
+  object-fit: cover;
 }
-.tik-tok {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 500;
-  position: relative;
-  align-self: stretch;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.c-z-f {
-  color: #454545;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 20px;
-  line-height: 150%;
-  font-weight: 500;
-  position: relative;
-  align-self: stretch;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.icon5 {
-  width: 24px;
-  height: 24px;
+._37 {
+  width: 1076px;
+  height: 430.4px;
   position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
+  left: 301px;
+  top: 8448px;
+  object-fit: cover;
 }
-.icon6 {
-  width: 24px;
-  height: 24px;
+._36 {
+  width: 1076px;
+  height: 650.33px;
   position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
+  left: 301px;
+  top: 9519px;
+  object-fit: cover;
 }
-.icon7 {
-  width: 24px;
-  height: 24px;
+._35 {
+  width: 1076px;
+  height: 698.83px;
   position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
+  left: 308px;
+  top: 20009px;
+  object-fit: cover;
 }
-.icon8 {
-  width: 24px;
-  height: 24px;
+._34 {
+  width: 1076px;
+  height: 524.41px;
   position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
+  left: 221px;
+  top: 19341px;
+  object-fit: cover;
 }
-.paragraph {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 500;
+._33 {
+  width: 1076px;
+  height: 692.61px;
   position: absolute;
-  left: 80px;
-  top: 252px;
-  width: 1073px;
+  left: 308px;
+  top: 20922px;
+  object-fit: cover;
+}
+._32 {
+  width: 1057.5px;
+  height: 547px;
+  position: absolute;
+  left: 317px;
+  top: 21728px;
+  object-fit: cover;
+}
+._31 {
+  width: 1063px;
+  height: 541.5px;
+  position: absolute;
+  left: 308px;
+  top: 22388px;
+  object-fit: cover;
 }
